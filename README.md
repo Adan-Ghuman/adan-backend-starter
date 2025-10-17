@@ -4,8 +4,6 @@ A production-ready Node.js + TypeScript + Express + MongoDB backend starter temp
 
 **👉 [Read the Usage Guide (USAGE.md)](./USAGE.md) to get started quickly!**
 
-**📚 [Check out detailed examples (USAGE_EXAMPLES.md)](./USAGE_EXAMPLES.md) for advanced patterns.**
-
 ## ✨ Features
 
 - 🔒 **Security**: Helmet, CORS, Rate Limiting
