@@ -51,7 +51,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Adan-Ghuman/adan-backend-starter.git
    cd adan-backend-starter
    ```
 
@@ -72,12 +72,7 @@ src/
    - `AWS_*`: AWS credentials (if using S3)
    - `CLIENT_URL`: Your frontend URL
 
-4. **Generate Secrets** (optional)
-   ```bash
-   node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
-   ```
-
-5. **Start Development Server**
+4. **Start Development Server**
    ```bash
    npm run dev
    ```
